@@ -1,0 +1,2 @@
+# Ignore only the .env file inside the utils folder
+utils/.env

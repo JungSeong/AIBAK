@@ -1,7 +1,0 @@
-[client]
-showSidebarNavigation = false
-
-[server]
-port = 8501  # 원하는 포트 번호
-sslCertFile = "C:/Users/SOHYUNLEE/cert.pem"  # SSL 인증서 파일 경로
-sslKeyFile = "C:/Users/SOHYUNLEE/key.pem"  # SSL 키 파일 경로

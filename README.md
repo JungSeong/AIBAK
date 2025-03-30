@@ -80,7 +80,7 @@ CAPSTONE
 |구분|상세|
 |---|---|
 |개발 환경|<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white'> <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'>|
-|개발 언어|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">|
+|개발 언어|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-FF8900?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-01B9FC?style=for-the-badge&logo=css3&logoColor=white">|
 |웹 프레임워크|<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">|
 |API|<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Elevenlabs-000000?style=for-the-badge&logo=Elevenlabs&logoColor=white">|
 |DBMS|<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
